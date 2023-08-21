@@ -1,0 +1,24 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _938a18011263f505 -p********** _938a18011263f505 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./shahadat.com/private/backups/20230820_173003-shahadat_com-database.sql.gz
+
+Backup Summary for shahadat.com at 2023-08-20 17:30:05.021240
+Config  : ./shahadat.com/private/backups/20230820_173003-shahadat_com-site_config_backup.json 115.0B
+Database: ./shahadat.com/private/backups/20230820_173003-shahadat_com-database.sql.gz         259.0KiB
+Backup for Site shahadat.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _938a18011263f505 -p********** _938a18011263f505 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./shahadat.com/private/backups/20230820_233003-shahadat_com-database.sql.gz
+
+Backup Summary for shahadat.com at 2023-08-20 23:30:04.646517
+Config  : ./shahadat.com/private/backups/20230820_233003-shahadat_com-site_config_backup.json 115.0B
+Database: ./shahadat.com/private/backups/20230820_233003-shahadat_com-database.sql.gz         259.0KiB
+Backup for Site shahadat.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _938a18011263f505 -p********** _938a18011263f505 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./shahadat.com/private/backups/20230821_053003-shahadat_com-database.sql.gz
+
+Backup Summary for shahadat.com at 2023-08-21 05:30:04.654120
+Config  : ./shahadat.com/private/backups/20230821_053003-shahadat_com-site_config_backup.json 115.0B
+Database: ./shahadat.com/private/backups/20230821_053003-shahadat_com-database.sql.gz         259.0KiB
+Backup for Site shahadat.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _938a18011263f505 -p********** _938a18011263f505 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./shahadat.com/private/backups/20230821_113003-shahadat_com-database.sql.gz
+
+Backup Summary for shahadat.com at 2023-08-21 11:30:04.509275
+Config  : ./shahadat.com/private/backups/20230821_113003-shahadat_com-site_config_backup.json 115.0B
+Database: ./shahadat.com/private/backups/20230821_113003-shahadat_com-database.sql.gz         259.0KiB
+Backup for Site shahadat.com has been successfully completed

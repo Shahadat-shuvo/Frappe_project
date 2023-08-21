@@ -1,0 +1,21 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "14.45.0"
+    },
+    "heybot": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "e70a5aa3bbe2c101684177897f63dfe04885acaa",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    }
+}

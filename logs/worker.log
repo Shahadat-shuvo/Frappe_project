@@ -1,0 +1,156 @@
+2023-08-20 10:45:52,700 Worker rq:worker:d4f67af7edff4267b793cc7c3530f0dd: started, version 1.11.1
+2023-08-20 10:45:52,700 Subscribing to channel rq:pubsub:d4f67af7edff4267b793cc7c3530f0dd
+2023-08-20 10:45:52,706 *** Listening on home-friday-Frappe-frappe-bench:short, home-friday-Frappe-frappe-bench:default, home-friday-Frappe-frappe-bench:long...
+2023-08-20 10:45:52,707 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 10:45:52,709 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 10:45:52,711 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 10:46:22,213 Warm shut down requested
+2023-08-20 10:46:22,218 Unsubscribing from channel rq:pubsub:d4f67af7edff4267b793cc7c3530f0dd
+2023-08-20 10:52:47,191 Worker rq:worker:2250129a290d409297363c9dc6f8105b: started, version 1.11.1
+2023-08-20 10:52:47,192 Subscribing to channel rq:pubsub:2250129a290d409297363c9dc6f8105b
+2023-08-20 10:52:47,193 *** Listening on home-friday-Frappe-frappe-bench:short, home-friday-Frappe-frappe-bench:default, home-friday-Frappe-frappe-bench:long...
+2023-08-20 10:52:47,194 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 10:52:47,196 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 10:52:47,198 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 10:58:20,326 Warm shut down requested
+2023-08-20 10:58:20,338 Unsubscribing from channel rq:pubsub:2250129a290d409297363c9dc6f8105b
+2023-08-20 11:00:58,711 Worker rq:worker:56f3ae15311b4b1d810f874a43ec6965: started, version 1.11.1
+2023-08-20 11:00:58,711 Subscribing to channel rq:pubsub:56f3ae15311b4b1d810f874a43ec6965
+2023-08-20 11:00:58,718 *** Listening on home-friday-Frappe-frappe-bench:short, home-friday-Frappe-frappe-bench:default, home-friday-Frappe-frappe-bench:long...
+2023-08-20 11:00:58,719 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 11:00:58,721 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 11:00:58,722 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 11:03:40,612 Warm shut down requested
+2023-08-20 11:03:40,632 Unsubscribing from channel rq:pubsub:56f3ae15311b4b1d810f874a43ec6965
+2023-08-20 11:04:39,321 Worker rq:worker:40b60acc3cc14742a349c038ba25a7d4: started, version 1.11.1
+2023-08-20 11:04:39,322 Subscribing to channel rq:pubsub:40b60acc3cc14742a349c038ba25a7d4
+2023-08-20 11:04:39,323 *** Listening on home-friday-Frappe-frappe-bench:short, home-friday-Frappe-frappe-bench:default, home-friday-Frappe-frappe-bench:long...
+2023-08-20 11:04:39,324 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 11:04:39,326 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 11:04:39,328 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 11:31:39,490 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 11:31:39,493 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 11:31:39,495 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 11:58:39,763 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 11:58:39,766 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 11:58:39,768 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 12:25:39,972 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 12:25:39,974 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 12:25:39,976 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 12:52:40,224 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 12:52:40,226 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 12:52:40,228 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 13:19:40,479 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 13:19:40,482 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 13:19:40,484 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 13:46:40,788 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 13:46:40,791 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 13:46:40,794 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 14:13:41,077 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 14:13:41,080 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 14:13:41,082 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 14:40:41,303 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 14:40:41,306 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 14:40:41,308 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 15:07:41,613 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 15:07:41,616 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 15:07:41,622 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 15:34:41,764 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 15:34:41,767 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 15:34:41,770 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 16:01:42,129 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 16:01:42,132 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 16:01:42,134 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 16:28:42,335 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 16:28:42,338 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 16:28:42,341 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 16:55:42,530 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 16:55:42,533 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 16:55:42,535 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 17:22:42,786 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 17:22:42,789 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 17:22:42,792 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 17:49:42,940 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 17:49:42,943 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 17:49:42,946 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 18:16:43,169 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 18:16:43,172 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 18:16:43,175 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 18:43:43,457 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 18:43:43,460 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 18:43:43,463 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 19:10:43,653 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 19:10:43,656 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 19:10:43,659 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 19:37:43,928 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 19:37:43,931 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 19:37:43,933 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 20:04:44,291 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 20:04:44,294 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 20:04:44,297 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 20:31:44,592 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 20:31:44,595 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 20:31:44,597 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 20:58:44,650 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 20:58:44,653 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 20:58:44,655 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 21:25:44,872 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 21:25:44,875 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 21:25:44,877 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 21:52:45,065 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 21:52:45,067 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 21:52:45,069 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 22:19:45,348 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 22:19:45,351 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 22:19:45,354 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 22:46:45,598 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 22:46:45,601 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 22:46:45,603 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 23:13:45,691 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 23:13:45,694 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 23:13:45,697 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-20 23:40:45,905 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-20 23:40:45,907 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-20 23:40:45,909 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 00:07:46,132 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 00:07:46,135 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 00:07:46,138 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 00:34:46,390 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 00:34:46,393 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 00:34:46,396 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 01:01:46,545 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 01:01:46,549 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 01:01:46,551 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 01:28:46,743 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 01:28:46,746 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 01:28:46,749 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 01:55:47,012 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 01:55:47,014 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 01:55:47,016 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 02:22:47,199 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 02:22:47,202 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 02:22:47,204 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 02:49:47,425 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 02:49:47,428 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 02:49:47,431 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 03:16:47,565 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 03:16:47,568 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 03:16:47,571 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 03:43:47,755 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 03:43:47,758 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 03:43:47,761 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 04:10:47,906 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 04:10:47,909 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 04:10:47,911 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 04:37:48,062 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 04:37:48,065 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 04:37:48,068 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 05:04:48,316 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 05:04:48,319 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 05:04:48,322 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 05:31:48,500 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 05:31:48,503 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 05:31:48,505 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long
+2023-08-21 05:58:48,780 Cleaning registries for queue: home-friday-Frappe-frappe-bench:short
+2023-08-21 05:58:48,783 Cleaning registries for queue: home-friday-Frappe-frappe-bench:default
+2023-08-21 05:58:48,785 Cleaning registries for queue: home-friday-Frappe-frappe-bench:long

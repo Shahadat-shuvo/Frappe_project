@@ -1,0 +1,68 @@
+2023-08-20 10:40:20,986 DEBUG cd frappe-bench && python3 -m venv env
+2023-08-20 10:40:25,137 DEBUG cd frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-08-20 10:40:27,790 DEBUG cd frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet wheel
+2023-08-20 10:40:29,391 LOG Getting frappe
+2023-08-20 10:40:29,391 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-14 --depth 1 --origin upstream
+2023-08-20 10:40:33,089 LOG Installing frappe
+2023-08-20 10:40:33,089 DEBUG cd /home/friday/Frappe/frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/friday/Frappe/frappe-bench/apps/frappe 
+2023-08-20 10:41:13,264 DEBUG cd /home/friday/Frappe/frappe-bench/apps/frappe && yarn install
+2023-08-20 10:41:32,106 DEBUG cd /home/friday/Frappe/frappe-bench && supervisorctl restart frappe:
+2023-08-20 10:41:32,387 WARNING cd /home/friday/Frappe/frappe-bench && supervisorctl restart frappe: executed with exit code 2
+2023-08-20 10:41:32,387 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2023-08-20 10:41:32,387 DEBUG cd frappe-bench && bench build
+2023-08-20 10:41:32,527 INFO /usr/local/bin/bench build
+2023-08-20 10:42:03,499 LOG setting up backups
+2023-08-20 10:42:03,560 LOG backups were set up
+2023-08-20 10:42:03,561 INFO Bench frappe-bench initialized
+2023-08-20 10:42:03,936 INFO A newer version of bench is available: 5.16.4 → 5.17.0
+2023-08-20 10:45:49,386 INFO /usr/local/bin/bench start
+2023-08-20 10:45:50,252 INFO /usr/local/bin/bench worker
+2023-08-20 10:45:50,324 INFO /usr/local/bin/bench schedule
+2023-08-20 10:45:50,331 INFO /usr/local/bin/bench serve --port 8000
+2023-08-20 10:45:50,344 INFO /usr/local/bin/bench watch
+2023-08-20 10:46:58,134 INFO /usr/local/bin/bench new-site shahadat.com
+2023-08-20 10:47:38,100 INFO /usr/local/bin/bench drop-site shahadat.com --force
+2023-08-20 10:47:50,014 INFO /usr/local/bin/bench new-site shahadat.com
+2023-08-20 10:51:09,543 INFO /usr/local/bin/bench new-app heybot
+2023-08-20 10:51:09,550 LOG creating new app heybot
+2023-08-20 10:51:26,894 LOG Installing heybot
+2023-08-20 10:51:26,896 DEBUG cd /home/friday/Frappe/frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/friday/Frappe/frappe-bench/apps/heybot 
+2023-08-20 10:51:29,074 DEBUG bench build --app heybot
+2023-08-20 10:51:29,211 INFO /usr/local/bin/bench build --app heybot
+2023-08-20 10:51:35,047 DEBUG cd /home/friday/Frappe/frappe-bench && supervisorctl restart frappe:
+2023-08-20 10:51:35,310 WARNING cd /home/friday/Frappe/frappe-bench && supervisorctl restart frappe: executed with exit code 2
+2023-08-20 10:51:35,311 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2023-08-20 10:51:35,752 INFO A newer version of bench is available: 5.16.4 → 5.17.0
+2023-08-20 10:52:24,008 INFO /usr/local/bin/bench --site shahadat.com install-app heybot
+2023-08-20 10:52:44,003 INFO /usr/local/bin/bench start
+2023-08-20 10:52:44,810 INFO /usr/local/bin/bench watch
+2023-08-20 10:52:44,879 INFO /usr/local/bin/bench worker
+2023-08-20 10:52:44,894 INFO /usr/local/bin/bench schedule
+2023-08-20 10:52:44,945 INFO /usr/local/bin/bench serve --port 8000
+2023-08-20 10:58:42,445 INFO /usr/local/bin/bench setup requirements --python
+2023-08-20 10:58:42,629 DEBUG /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-08-20 10:58:44,146 DEBUG cd /home/friday/Frappe/frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e ./apps/frappe
+2023-08-20 10:58:49,210 DEBUG cd /home/friday/Frappe/frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e ./apps/heybot
+2023-08-20 10:58:51,256 WARNING cd /home/friday/Frappe/frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e ./apps/heybot executed with exit code 1
+2023-08-20 10:58:51,257 WARNING /usr/local/bin/bench setup requirements --python executed with exit code 1
+2023-08-20 10:58:51,485 INFO A newer version of bench is available: 5.16.4 → 5.17.0
+2023-08-20 10:59:50,396 INFO /usr/local/bin/bench setup requirements --python
+2023-08-20 10:59:50,571 DEBUG /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-08-20 10:59:52,041 DEBUG cd /home/friday/Frappe/frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e ./apps/frappe
+2023-08-20 10:59:57,115 DEBUG cd /home/friday/Frappe/frappe-bench && /home/friday/Frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e ./apps/heybot
+2023-08-20 11:00:45,838 INFO A newer version of bench is available: 5.16.4 → 5.17.0
+2023-08-20 11:00:54,878 INFO /usr/local/bin/bench start
+2023-08-20 11:00:55,688 INFO /usr/local/bin/bench schedule
+2023-08-20 11:00:55,706 INFO /usr/local/bin/bench watch
+2023-08-20 11:00:55,786 INFO /usr/local/bin/bench serve --port 8000
+2023-08-20 11:00:55,814 INFO /usr/local/bin/bench worker
+2023-08-20 11:03:49,607 INFO /usr/local/bin/bench use shahadat.com
+2023-08-20 11:04:35,451 INFO /usr/local/bin/bench start
+2023-08-20 11:04:36,235 INFO /usr/local/bin/bench schedule
+2023-08-20 11:04:36,331 INFO /usr/local/bin/bench watch
+2023-08-20 11:04:36,399 INFO /usr/local/bin/bench serve --port 8000
+2023-08-20 11:04:36,427 INFO /usr/local/bin/bench worker
+2023-08-20 12:00:02,281 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-20 18:00:01,888 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-21 00:00:01,799 INFO /usr/local/bin/bench --verbose --site all backup
+2023-08-21 06:00:01,837 INFO /usr/local/bin/bench --verbose --site all backup
